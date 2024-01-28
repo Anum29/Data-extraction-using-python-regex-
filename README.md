@@ -15,7 +15,7 @@ This Python script is designed to extract relevant client data from a text file.
 3. Run the script using the command:
 
     ```bash
-    python extract_client_data.py
+    data_pipeline_regex_python.py
     ```
 
 4. The script will process the text file, extract relevant information, and display the output.
