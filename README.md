@@ -55,5 +55,7 @@ The script follows a step-by-step process to extract client data:
 
 ## Notes
 
-- This code is provided as a generic solution and may require adjustments for specific use cases.
-- Ensure that the 'AK2.txt' file is appropriately formatted and contains the necessary client data.
+- This code is provided as a generic solution and may require adjustments for specific use cases. 
+- Ensure that the 'AK2.txt' file does not reflect the real client data because of security reasons
+
+  
